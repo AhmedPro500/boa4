@@ -1,22 +1,22 @@
 {
-	"devToken": "",
-	"owners": [],
+	"devToken": "NTUxNzM3MzA5ODg4Nzc0MTU1.D11U7g.0NQQJ4Bw8qjJj4296H5FCEquJGc",
+	"owners": [490404894071717930],
 	"ownerGuildIds": [],
-	"proBotId": "",
+	"proBotId": "282859044593598464",
 	"botAdd": "https://invitemanager.co/add-bot/",
 	"botSupport": "https://discord.gg/Am6p2Hs",
 	"botWebsite": "https://andreasgassmann.github.io/discord-invite-manager/",
 	"botPatreon": "https://www.patreon.com/invitemanager",
-	"commandLogChannel": "",
-	"feedbackChannel": "",
-	"logChannel": "",
-	"dmChannel": "",
-	"dmGuild": "",
+	"commandLogChannel": "546876413538729985",
+	"feedbackChannel": "546876413538729985",
+	"logChannel": "546876413538729985",
+	"dmChannel": "546876413538729985",
+	"dmGuild": "546876413538729985",
 	"rabbitmq": {
 		"hostname": "localhost",
 		"username": "guest",
 		"password": "guest",
-		"prefix": ""
+		"prefix": "!"
 	},
 	"sequelize": {
 		"dialect": "mysql",
@@ -25,5 +25,5 @@
 		"password": "",
 		"database": "im"
 	},
-	"discordBotsToken": ""
+	"discordBotsToken": "NTUxNzM3MzA5ODg4Nzc0MTU1.D11U7g.0NQQJ4Bw8qjJj4296H5FCEquJGc"
 }
